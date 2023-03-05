@@ -1,2 +1,2 @@
 # CV
-<a href="https://labib108.github.io/CV/index.html">Click for result</a>
+<a href="https://github.com/labib108/CV/blob/main/index.html">Click for result</a>
